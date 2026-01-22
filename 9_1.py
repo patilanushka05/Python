@@ -1,0 +1,10 @@
+#Write a prg which contains on function named as Display() 
+#that prints Jay Ganesh on console
+
+def Display():
+    print("Jay Ganesh")
+
+def main():
+    Display()
+if __name__=="__main__":
+    main()
